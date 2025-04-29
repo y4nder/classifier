@@ -2,3 +2,5 @@ pandas
 openai
 tqdm
 python-dotenv
+numpy
+scikit-learn
